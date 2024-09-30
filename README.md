@@ -38,7 +38,8 @@
 
 ## ⭐️ Screenshot
 
-<img width="960" alt="E-waste Management Webpaage Screenshot" src="https://github.com/BENARD-ISABOKE/Electronic-waste-Management-Website-Using-HTML-CSS-JS/assets/130490937/c63ebf0c-a087-427e-984b-daad7389e665">
+<img width="960" alt="E-waste Management Webpage Screenshot" src="https://github.com/BENARD-ISABOKE/Electronic-waste-Management-Website-Using-HTML-CSS-JS/assets/130490937/c63ebf0c-a087-427e-984b-daad7389e665">
+
 
 ## ⭐️ Live Demo
 
