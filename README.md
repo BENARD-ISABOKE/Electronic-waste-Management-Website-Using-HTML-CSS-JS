@@ -44,7 +44,7 @@
 
 Check out the live demo of the project:
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-success?style=for-the-badge&logo=firefox-browser)](https://BENARD-ISABOKE.github.io/Electronic-waste-Management-Website-Using-HTML-CSS-JS/)
+[Live Demo](https://benard-isaboke.github.io/Electronic-waste-Management-Website-Using-HTML-CSS-JS/)
 
 Click on the icon above to access the live demo and experience the project in action.
 
