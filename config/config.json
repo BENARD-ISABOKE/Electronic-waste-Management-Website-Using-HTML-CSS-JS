@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "@Seeben1990",
+    "database": "e_waste",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "@Seeben1990",
+    "database": "e_waste_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "@Seeben1990",
+    "database": "e_waste_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
