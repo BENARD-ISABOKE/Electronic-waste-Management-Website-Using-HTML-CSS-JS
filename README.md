@@ -70,7 +70,7 @@ Mention the license under which your project is distributed. Provide a link to t
 
 You can reach out to me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/isaboke-benard-b09307123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/isaboke-benard)
 
 [![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:isabokebenard95@gmail.com)
 
